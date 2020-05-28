@@ -1,0 +1,6 @@
+export const CREATE_MOVIE = 'CREATE_MOVIE'
+export const ADD_TAG = 'ADD_TAG'
+export const DELETE_MOVIE = 'DELETE_MOVIE'
+export const CHECK_MOVIE = 'CHECK_MOVIE'
+export const UNCHECK_MOVIE = 'UNCHECK_MOVIE'
+export const EDIT_MOVIE = 'EDIT_MOVIE'
